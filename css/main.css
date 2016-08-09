@@ -1,5 +1,5 @@
 .fondog{
-	background-color: #D0D3CF;
+	background-color: #D7DBDD;
 }
 .imagenes{
 	width: 530px;
@@ -28,6 +28,22 @@
 	height: 50px;
 	margin-bottom: 20px;
 }
+.boton1{
+	background-color: #34495E;
+	border: none;
+	color: white;
+	padding: 10px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-left: 540px;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
 .fondo1{
 	background-image: url(../img/background/city.jpg);
 	background-repeat: no-repeat;
@@ -45,5 +61,51 @@
 	font-size: 20px;
 	text-align: center;
 	margin-top: 150px;
+}
+.fondocaja{
+	background-color: white;
+	width: 400px;
+	height: 640px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.caja{
+	background-color: #1C2833;
+	width: 350px;
+	height: 130px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.texto3{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	padding: 50px;
+	font-size: 30px;
+}
+.caja2{
+	background-color: #CACFD2;
+	color: grey;
+	width: 350px;
+	height: 130px;
+	margin-bottom: 50px;
+	padding: 40px;
+	font-size: 23px;	
+}
+.text{
+	font-size: 20px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.cajaa{
+	background-color: #7FB3D5;
+	width: 350px;
+	height: 130px;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 			
