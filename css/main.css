@@ -1,6 +1,60 @@
 .fondog{
 	background-color: #D7DBDD;
 }
+.font-size1{
+	font-size: 58px;
+}
+
+.font-size2{
+	font-size: 40px;
+}
+
+.botonMenu{
+	width: 145px;
+	height: 51px;
+	background-color: #888;
+	border: none;
+	color: white;
+	font-size: 19px;
+}
+.padding4{
+	padding-top: 2%;
+	margin-right: 80%;
+}
+.pd-top4{
+	padding-top: 4%;
+}
+
+.pd-top3{
+	padding-top: 1%;
+	padding-left: 7%;
+}/*Icono Navegador*/
+
+.pl-38{
+	padding-left: 38%;
+}
+
+.pl-3{
+	padding-left: 3%;
+}
+
+ .pt8-pb5{
+ 	padding-top: 8%;
+ 	padding-bottom: 5%;
+ }
+
+ .pt3-pb13{
+ 	padding-top: 3%;
+ 	padding-bottom: 13%;
+ }
+
+ .pb-3{
+ 	padding-bottom: 3%;
+ }
+
+ .pb-1{
+ 	padding-bottom: 1%;
+ }
 .imagenes{
 	width: 530px;
 	margin-top: 10px;
@@ -106,6 +160,20 @@
 	height: 130px;
 	margin-left: 20px;
 	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.botona{
+	background-color: #1C2833;
+	border: none;
+	color: white;
+	padding: 10px;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease;
+	cursor: pointer;
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
 	margin-bottom: 20px;
 }
 			
